@@ -1,0 +1,8 @@
+{
+  "name": "Remix: VIETLOOT",
+  "description": "A high-fidelity 3D lottery ball simulation using real physics, air-mix turbulence, and automatic ball drawing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
